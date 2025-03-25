@@ -40,7 +40,7 @@ Hi, I'm CTechDigital, a passionate **WordPress plugin developer** and **full-sta
 ---
 
 ## **🤝 Connect With Me**  
-📧 **Email:** your.email@example.com  
+📧 **Email:** ctechdigitalpt@gmail.com  
 💬 **Twitter:** [@yourhandle](https://twitter.com/CTechDigitalpt)  
 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 
