@@ -35,7 +35,7 @@ Hi, We are CTechDigital.com, passionate **WordPress plugin developers** and **fu
 
 ## ** GitHub Stats & Activity**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CTechDigitalpt&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CTechDigitalpte&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CTechDigitalpt&layout=compact&theme=radical)  
 
 ---
 
