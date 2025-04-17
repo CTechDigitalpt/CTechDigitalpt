@@ -41,7 +41,7 @@ Hi, We are CTechDigital.com, passionate **WordPress plugin developers** and **fu
 
 ## ** Connect With Me**  
 📧 **Email:** ctechdigitalpt@gmail.com  
-💬 **Twitter:** <a href="https://twitter.com/CTechDigital" target="_blank">@CTechDigital</a>  
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/company/ctech-digital/" target="_blank">linkedin.com/in/ctech-digital</a> 
+💬 **Twitter:** [@CTechDigital](https://twitter.com/CTechDigital)  
+🔗 **LinkedIn:** [linkedin.com/in/ctech-digital](https://www.linkedin.com/company/ctech-digital/)  
 
 ✨ _"Coding the future, one plugin at a time."_ 
