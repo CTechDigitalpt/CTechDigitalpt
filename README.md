@@ -1,6 +1,6 @@
 # CTechDigital | Full-Stack Developer & WordPress Plugin Creator
 
-![Profile Banner](https://your-image-url.com/banner.png)  
+![Profile Banner](https://avatars.githubusercontent.com/u/204920997?v=4)  
 
 ## **About Us**  
 Hi, We are CTechDigital.com, passionate **WordPress plugin developers** and **full-stack web developers** with expertise in **PHP, JavaScript, and Python**. We build **custom WordPress solutions**, automation tools, and open-source projects to improve the web development experience.  
