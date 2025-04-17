@@ -6,8 +6,8 @@
 Hi, We are CTechDigital.com, passionate **WordPress plugin developers** and **full-stack web developers** with expertise in **PHP, JavaScript, and Python**. We build **custom WordPress solutions**, automation tools, and open-source projects to improve the web development experience.  
 
 - **Specializing in:** WordPress Plugins, Custom Development, Desktop Apps, Server Scripts and many others  
-- **Latest Project:** [Custom Code Box](https://github.com/yourusername/custom-code-box)  
-- 📬 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+- **Latest Project:** [Custom Code Box](https://github.com/CTechDigitalpt/ctd-custom-code-box-viewer-plugin)  
+- 📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/company/ctech-digital/) | [Twitter](https://twitter.com/CTechDigital)  
 
 ---
 
