@@ -1,4 +1,4 @@
-# CTechDigital | Full-Stack Developer & WordPress Plugin Creator
+# CTechDigital | Full-Stack Developer | WordPress Plugin Developer | Applications Engineer | Prototype Design
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/204920997?v=4)  
 
